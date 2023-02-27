@@ -17,37 +17,37 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['260978532917'] //ur owner number
 global.ownername = "illusion fox" //ur owner name
 global.ytname = "YT: illusion fox" //ur yt chanel name
-global.socialm = "GitHub: nimaofficnimaoffi" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.socialm = "GitHub: maiki300" //ur github or insta name
+global.location = "japan, Tokyo" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
+global.ownernomer = "260978532917" //ur number
 global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
+global.botname = 'illusion fox' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
-global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.botscript = 'https://github.com/maiki300/illusion-fox' //script link
+global.themeemoji = "🖕" //ur theme emoji
+global.packname = "Sticker By illusion" //ur sticker watermark packname
+global.author = "illusion fox 🦊" //ur sticker watermark author
+global.wm = "illusion fox 𝗜𝗡𝗖" //ur watermark
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['/','!','.','#','&']
 global.sp = ''
 
 //messages
 global.mess = {
-    success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
+    success: 'have this!',
+    admin: 'Do you look like admin? this feature could be used by admins only!',
+    botAdmin: 'make Bot Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
-    wait: 'Please with...',
+    owner: 'Do you look like owner,this feature could be used by owner only',
+    group: 'Does this look like a group,Features Used Only For Groups!',
+    private: 'Does this look like private chat,Features Used Only For Private Chat!',
+    bot: 'Do you look like bot?,this feature could be used by bot only',
+    wait: 'sabar...',
     wal: 'ටිකක් හිටහන් බඩු මග එන ගමන්',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
