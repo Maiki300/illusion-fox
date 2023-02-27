@@ -22,7 +22,7 @@ global.location = "japan, Tokyo" //ur location
 
 //bot bomdy 
 global.ownernomer = "260978532917" //ur number
-global.premium = ['94786802371'] //ur premium number
+global.premium = ['260978532917'] //ur premium number
 global.botname = 'illusion fox' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
